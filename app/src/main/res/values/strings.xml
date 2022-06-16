@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Login</string>
+    <string name="edtxt_nombre">Nombre</string>
+    <string name="edtxt_apellido">Apellido</string>
+    <string name="edtxt_telefono">Teléfono</string>
+    <string name="edtxt_correo">Correo electrónico</string>
+    <string name="edtxt_constrasenha">Contraseña</string>
+    <string name="btn_registro">Registrar</string>
+    <string name="txtv_titulo">Registro</string>
 </resources>
